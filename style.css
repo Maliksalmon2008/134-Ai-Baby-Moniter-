@@ -1,0 +1,44 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+margin-top: 50px;
+}
+
+body{
+    height: 950px;
+    background-color: blue;
+    background-position: center;
+    background-size:cover;
+}
+
+canvas{
+
+    border-radius: 3;
+    border-color: black;
+    border-style: dashed;
+    margin-top: 100px;
+}
+
+h1{
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    top: 0px;
+    cursor: grab;
+    background: red;
+    width: 100%;
+    margin-top: 0px;
+    z-index: 10;
+}
+
+label{
+    margin-top: 50px;
+}
+
